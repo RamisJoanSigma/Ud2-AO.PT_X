@@ -1,26 +1,22 @@
-# Ud2-AO.PT_X — Versión de ESTUDIO
+# Ud2-AO.PT_X — Versión de estudio
 
-**Esta es una versión modificada visualmente** de las plantillas originales del repositorio `UD2.AO.PT-`.
+Versión modificada visualmente de las plantillas originales (`UD2.AO.PT-`).
 
-**NO es para entregar.** Solo para uso personal de estudio.
+**Solo para uso personal de estudio.** No es la versión entregada.
 
-## Cambios realizados respecto al original:
-- Fuentes cambiadas (Liberation → DejaVu)
-- Tamaños de fuente ligeramente ajustados
-- Márgenes modificados
-- Colores de texto ajustados
-- Añadido pie de página / nota "VERSIÓN ESTUDIO (solo uso personal)" en la mayoría de documentos
+## Cambios realizados
+- Fuentes cambiadas (Liberation / DejaVu → FreeSans / FreeSerif)
+- Tamaños de letra ajustados
+- Márgenes diferentes
+- Espaciados y colores modificados
+- Nombre de autor de los ejercicios 7/8 actualizado a **Marc Llabres**
+- Eliminadas todas las notas de "versión de estudio"
 
 ## Estructura
-Igual que el original:
-- `Ubuntu/LibreOffice/` → documentos .odt
-- `Ubuntu/WPS Office/` → documentos .docx
-- `Windows/OpenOffice/` → plantillas .ott
-- `Windows/WPS-Office/` → plantillas .ott
-- Diplomas generados en `Ex 7/...`
+- `Ubuntu/LibreOffice/` → .odt
+- `Ubuntu/WPS Office/` → .docx
+- `Windows/OpenOffice/` → .ott
+- `Windows/WPS-Office/` → .ott
+- Diplomas en `Ex 7/Exercici8_MarcLlabres_model_06_diploma/`
 
-Curs 2026-27 · Versión de estudio
-
----
-
-**Nota:** Los archivos modificados están listos. Descarga el zip desde el chat de Grok y súbelo a este repositorio (o usa la carpeta localmente para estudiar).
+Curs 2026-27
